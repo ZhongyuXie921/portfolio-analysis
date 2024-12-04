@@ -35,11 +35,6 @@ A Python-based portfolio analysis tool that helps investors analyze and simulate
    cd portfolio-analysis
    ```
 
-2. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Import the PortfolioAnalyzer class:
@@ -104,9 +99,6 @@ Sharpe Ratio: X.XX
 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
